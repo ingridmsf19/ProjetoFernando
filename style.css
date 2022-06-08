@@ -1,0 +1,24 @@
+body{
+    margin: 0;
+    box-sizing: border-box;
+    padding: 0;
+    background-color: rgb(8, 8, 8) !important;
+}
+
+nav{
+    background-color: rgb(8, 8, 8) !important;
+}
+
+nav img{
+    width: 100px !important; 
+    height: 50px !important;
+}
+
+.back-img{
+    background-image: url("imagens/15-10-highlight.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center top;
+    opacity: 0.9;
+
+}
