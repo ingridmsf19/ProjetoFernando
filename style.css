@@ -10,8 +10,8 @@ nav{
 }
 
 nav img{
-    width: 100px !important; 
-    height: 50px !important;
+    width: 200px !important; 
+    height: 100px !important;
 }
 
 .back-img{
@@ -20,5 +20,20 @@ nav img{
     background-size: cover;
     background-position: center top;
     opacity: 0.9;
+    margin-top: 100px;
+    height: 500px !important;
+}
 
+p{
+    font-size: 20px;
+}
+
+
+.cards{
+    width: 100px !important;
+    height: 500px;
+}
+
+.material-icons{
+    font-size: 100px !important;
 }
